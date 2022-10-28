@@ -1,3 +1,7 @@
+This project was imported from : https://git.fhict.nl/I426926/web3-marcello-mihail.git
+
+Please refer to the above mentioned link for correct work distribution and commit tracking.
+
 # Web3 Laravel
 
 | Name | Student No. |
